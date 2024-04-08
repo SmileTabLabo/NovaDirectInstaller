@@ -1,5 +1,2 @@
 * text=auto eol=lf
-*.bat text eol=crlf
 *.apk binary
-*.jar binary
-*.png binary

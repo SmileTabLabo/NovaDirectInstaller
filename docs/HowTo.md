@@ -23,7 +23,7 @@
 > [!IMPORTANT]
 > **※ Next の場合は Playストア を利用できます**  
 以下のZIPファイルをダウンロードし、５つのAPKを抽出してください。  
-> - [**CTZ-GApps**.zip](https://subcontent.s1204.me/android/CTZ-GApps.zip)
+> - [**CTZ-GApps**.zip](https://github.com/s1204IT/NovaDirectInstaller/releases/latest/download/CTZ-GApps.zip)
 
 ⒉ 次のリンクを開き､ ファイルとして保存します｡  
 [**test_environment_info.xml**](https://smiletablabo.github.io/NovaDirectInstaller/test_environment_info.xml)
@@ -84,4 +84,4 @@ SDカードの最上層
 
 また､ `count_dcha_completed` が存在しない場合でも無視して **DchaState** を `3` にするので､  
 **QSB** や AOSPの**ブラウザ**､ **パッケージインストーラー** を使用したい場合は､  
-オリジナルの [**DchaState Changer**](//github.com/SmileTabLabo/DchaStateChanger) を使用してください｡
+オリジナルの [**DchaState Changer**](https://github.com/SmileTabLabo/DchaStateChanger) を使用してください｡
