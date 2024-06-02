@@ -1,2 +1,2 @@
 * text=auto eol=lf
-*.apk binary
+*.apk text
